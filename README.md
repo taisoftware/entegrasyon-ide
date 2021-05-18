@@ -3,6 +3,12 @@
 
 # Requirements
 - Python 3.9
+- sys
+- tkinter 
+- io
+- tokenize
+- keyword
+- os
 
 # <--Social-Medias-->
 - G-mail   : [firattunaarslan@gmail.com]
