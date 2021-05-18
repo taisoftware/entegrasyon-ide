@@ -10,6 +10,10 @@
 - keyword
 - os
 
+# Features
+- Her türlü dil geliştirilebilir.
+- Renklendirme ayarı Python'a uyarlanmıştır.
+
 # <--Social-Medias-->
 - G-mail   : [firattunaarslan@gmail.com]
 - Instagram: @firattunaarslan61 [www.instagram.com/firattunaarslan61]
