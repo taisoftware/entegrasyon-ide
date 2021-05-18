@@ -1,7 +1,7 @@
-# Entegrasyon IDE
+# <--Entegrasyon-IDE-->
 - Entegrason IDE is a Python IDE
 
-# Requirements
+# <--Requirements-->
 - Python 3.9
 - sys
 - tkinter 
@@ -10,7 +10,7 @@
 - keyword
 - os
 
-# Features
+# <--Features-->
 - Her türlü dil geliştirilebilir.
 - Renklendirme ayarı Python'a uyarlanmıştır.
 
