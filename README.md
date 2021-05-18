@@ -1,6 +1,9 @@
 # Entegrasyon IDE
 - Entegrason IDE is a Python IDE
 
+# Requirements
+- Python 3.9
+
 # <--Social-Medias-->
 - G-mail   : [firattunaarslan@gmail.com]
 - Instagram: @firattunaarslan61 [www.instagram.com/firattunaarslan61]
