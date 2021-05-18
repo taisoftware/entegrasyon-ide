@@ -21,4 +21,4 @@
 - Facebook : @firattunaarslan   [www.facebook.com/firattunaarslan]
 # <--Web-Sites-->
 - TekOForum      : [www.tekoforum.wixsite.com/tekoforum]
-- TekoComporation: [www.tekocomporaiton.wordpress.com]
+- TekoComporation: [www.tekocomporation.wordpress.com]
