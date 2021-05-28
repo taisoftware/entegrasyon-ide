@@ -1,5 +1,5 @@
-# <--Entegrasyon-IDE-->
-- Entegrason IDE is a Python IDE
+# <--Entegrasyon-->
+- Entegrasyon one text editor.
 
 # <--Requirements-->
 - Python 3.9
