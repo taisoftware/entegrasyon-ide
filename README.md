@@ -4,7 +4,7 @@
 # <--Requirements-->
 - Python 3.9
 - tkinter 
-- os
+- tkinter.askopenfile
 
 # <--Social-Medias-->
 - G-mail   : [firattunaarslan@gmail.com]
