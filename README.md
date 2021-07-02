@@ -14,4 +14,3 @@
 - 
 # <--Web-Sites-->
 - TekOForum      : [www.tekoforum.wixsite.com/tekoforum]
-- TekoComporation: [www.tekocomporation.wordpress.com]
